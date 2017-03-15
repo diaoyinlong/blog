@@ -1,9 +1,9 @@
 # Created by Jekyll Writer
-title: My Blog
+title: QA Memo
 author: Diao
 description: Memo tech
 permalink: '/:year/:month/:day/:title/'
-paginate: 10
+paginate: 20
 paginate_path: '/page/:num/'
 twitter_username: jekyllwriter
 github_username: jekyllwriter
