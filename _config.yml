@@ -1,7 +1,7 @@
 # Created by Jekyll Writer
-title: QA Memo
+title: Tech Memo
 author: Diao
-description: Memo tech
+description: memo some tech problem in work
 permalink: '/:year/:month/:day/:title/'
 paginate: 20
 paginate_path: '/page/:num/'
