@@ -19,3 +19,4 @@ github_username:  jekyllwriter
 gems: [jekyll-paginate]
 markdown: kramdown
 baseurl: "/blog"
+theme: jekyll-theme-cayman
