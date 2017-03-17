@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-[Jekyll Writer](http://www.jekyllwriter.com) is a Jekyll blog site writer. You may download Jekyll Writer for Windows, OS X and Linux from our [official website](http://www.jekyllwriter.com).
+[刁寅龙](https://github.com/diaoyinlong) is a developer and tester. 
+He is keen on resolving problem through tech way.
