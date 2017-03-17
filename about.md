@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 [刁寅龙](https://github.com/diaoyinlong) is a developer and tester.  
-He enaged in promoting test efficiency by develop method.
+He engaged in promoting test efficiency by develop method.
