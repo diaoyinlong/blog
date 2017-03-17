@@ -1,11 +1,11 @@
 # Created by Jekyll Writer
-title: Diao's Blog
+title: tech memo
 author: Diao
 permalink: '/:year/:month/:day/:title/'
 paginate: 20
 paginate_path: '/page/:num/'
-twitter_username: jekyllwriter
-github_username: jekyllwriter
+twitter_username: yinlong_diao
+github_username: diaoyinlong
 gems:
   - jekyll-paginate
 markdown: kramdown
