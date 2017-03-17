@@ -2,7 +2,7 @@
 title: 在Linux上部署chromedriver
 layout: post
 categories: 测试
-tags: '自动化, ChromeDriver'
+tags: '自动化,ChromeDriver'
 ---
 * 下载[ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 * 将ChromeDriver分别放在/usr/local/share/和/usr/local/bin/
