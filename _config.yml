@@ -11,3 +11,4 @@ gems:
 markdown: kramdown
 baseurl: /blog
 theme: jekyll-theme-cayman
+description: Memo some valuable tech information for works
