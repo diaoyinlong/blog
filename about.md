@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-[刁寅龙](https://github.com/diaoyinlong) is a developer and tester. 
-He is keen on resolving problem through tech way.
+[刁寅龙](https://github.com/diaoyinlong) is a developer and tester.  
+He enaged in promoting test efficiency by develop method.
