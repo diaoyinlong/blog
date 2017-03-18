@@ -13,4 +13,5 @@ tags: Virtual Box
  
  		sudo usermod -G vboxusers -a your_account_name
 	
+	
 	> 注：最好使用usb3.0控制器否则虚拟机无法识别usb3.0设备
