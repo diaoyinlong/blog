@@ -11,6 +11,6 @@ tags: Virtual Box
  - 解决方案  
  将当前用户添加到virtual box用户组，添加成功后即可设置usb筛选器。
  
-		  sudo usermod -G vboxusers -a your_account_name
+		  sudo usermod -G vboxusers -a your_account_name  
 		  
  > 注：最好使用usb3.0控制器否则虚拟机无法识别usb3.0设备
