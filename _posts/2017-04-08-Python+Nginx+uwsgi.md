@@ -2,7 +2,7 @@
 title: Python+Nginx+uwsgi
 layout: post
 categories: 环境部署
-tags: 'python'
+tags: 'Django'
 ---
 __Python:__  
 在Django项目的wsgi.py目录下添加django.xml文件，内容如下
