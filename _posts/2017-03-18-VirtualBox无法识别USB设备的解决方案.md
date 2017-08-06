@@ -2,7 +2,7 @@
 title: VirtualBox无法识别USB设备的解决方案
 layout: post
 categories: Linux
-tags: Virtual Box
+tags: 命令
 ---
 
  - 问题描述  
