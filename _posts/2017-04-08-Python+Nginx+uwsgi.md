@@ -4,9 +4,12 @@ layout: post
 categories: 环境部署
 tags: 'Django'
 ---
-__Python:__  
-在Django项目的wsgi.py目录下添加django.xml文件，内容如下
 
+- 在Django项目的wsgi.py目录下添加django.xml文件
+- 修改Nginx配置
+- 安装uwsgi
+
+***
     <uwsgi>
     <socket>127.0.0.1:8081</socket>
     <chdir>/home/diao/Projects/hello_django/hello_django</chdir>
@@ -14,9 +17,7 @@ __Python:__
     <module>wsgi</module>
     </uwsgi>
 
-
-__Nginx:__  
-
+***
     server {
         listen       8080;
         server_name  127.0.0.1;
@@ -27,8 +28,7 @@ __Nginx:__
         }
     }
     
-__uwsgi:__  
-
+***
     sudo apt install uwsgi
 
     sudo apt install uwsgi-plugin-python3
