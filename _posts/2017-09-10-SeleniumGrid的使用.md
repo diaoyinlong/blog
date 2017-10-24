@@ -20,3 +20,6 @@ tags: selenium
 
 		driver=WebDriver('http://192.168.0.108:4444/wd/hub',DesiredCapabilities.CHROME)
 		driver.get('http://www.baidu.com')
+		
+- 查看node状态
+> http://10.12.9.108:4444/grid/console
